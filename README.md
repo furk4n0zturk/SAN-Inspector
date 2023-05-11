@@ -2,6 +2,8 @@
 
 SAN-Inspector is a Python tool used to check the SAN (Subject Alternative Name) values in SSL certificates of given domain names.
 
+SAN-Inspector is a Python tool that allows users to examine and verify the Subject Alternative Name (SAN) values in SSL certificates of specified domain names. This tool checks certificate matching and helps to identify potential security risks.
+
 ## Installation
 
 1. Clone or download this GitHub repository.
