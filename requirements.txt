@@ -1,0 +1,4 @@
+cryptography==3.4.8
+argparse==1.4.0
+socket==0.0.0
+ssl==0.0.0
